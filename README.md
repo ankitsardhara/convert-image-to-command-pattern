@@ -4,3 +4,5 @@ npm install get-pixels
 npm install rgb-hex
 <br>
 npm install clear
+<br>
+node index.js
