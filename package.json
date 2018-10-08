@@ -1,0 +1,9 @@
+{
+  "name": "convert-image-to-command-pattern",
+  "version": "1.0.0",
+  "description": "convert-image-to-command-pattern-nodejs",
+  "main": "index.js",
+  "author": "ankit sardhara",
+  "license": "ISC",
+  "dependencies": {}
+}
